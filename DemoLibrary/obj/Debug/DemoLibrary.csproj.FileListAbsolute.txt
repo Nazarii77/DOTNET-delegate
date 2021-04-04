@@ -1,0 +1,6 @@
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\boich\Desktop\Нова папка (3)\DemoLibrary\obj\Debug\DemoLibrary.pdb

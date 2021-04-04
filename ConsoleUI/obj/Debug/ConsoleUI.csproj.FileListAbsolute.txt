@@ -1,0 +1,10 @@
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\boich\Desktop\Нова папка (3)\ConsoleUI\obj\Debug\ConsoleUI.pdb
